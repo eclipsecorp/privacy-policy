@@ -42,6 +42,6 @@ We may update this policy periodically. Any changes will be posted on this page.
 
 If you have any questions or concerns, contact us at:
 
-📧 your_email@example.com
+📧 matrix.games.developers@gmail.co
 
 ---
